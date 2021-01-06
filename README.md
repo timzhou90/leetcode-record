@@ -2,9 +2,11 @@
 LeetCode
 ========
 
-### LeetCode Algorithm for self learning algorithm
+### LeetCode Algorithm
+
+(Notes: "&hearts;" means you need to buy a book from Leetcode)
 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1160|[Find Words That Can Be Formed by Characters](https://leetcode.com/problems/find-words-that-can-be-formed-by-characters/)| [JavaScript](./algorithms/js/Find Words That Can Be Formed by Characters/Find Words That Can Be Formed by Characters.js)|Easy|
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)| [Javascript](./algorithms/JS/findWordsThatCanBeFormedbyCharacters/findWordsThatCanBeFormedbyCharacters.js) |Easy|
