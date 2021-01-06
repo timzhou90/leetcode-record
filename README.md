@@ -1,10 +1,10 @@
 
-LeetCode
+LeetCode for self review algorithm
 ========
 
 ### LeetCode Algorithm
 
-(Notes: "&hearts;" means you need to buy a book from Leetcode)
+("&hearts;" means need to do mutiple time)
 
 
 | # | Title | Solution | Difficulty |
