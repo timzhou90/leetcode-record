@@ -16,3 +16,4 @@ LeetCode for self review algorithm
 |229|[Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)| [Javascript](./algorithms/JS/bullsAndCows/bullsAndCows.js) |Medium|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)| [Javascript](./algorithms/JS/groupAnagrams/groupAnagrams.js) |Medium|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)| [Javascript](./algorithms/JS/validParentheses/validParentheses.js) |Easy|
+|1603|[Design Parking System](https://leetcode.com/problems/design-parking-system/)| [Javascript](./algorithms/JS/designParkingSystem/designParkingSystem.js) |Easy|
