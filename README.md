@@ -20,4 +20,4 @@ LeetCode for self review algorithm
 |227|[Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)| [Javascript](./algorithms/JS/basciCalculatorII/basciCalculatorII.js) |Medium|
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)| [Javascript](./algorithms/JS/minimumNumberofFrogsCroaking/minimumNumberofFrogsCroaking.js) |Medium|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)| [Javascript](./algorithms/JS/loggerRateLimiter/loggerRateLimiter.js) |Easy|
-|359|[Design HashSet](https://leetcode.com/problems/design-hashset/)| [Javascript](./algorithms/JS/Design HashSet/designHashSet.js) |Easy|
+|359|[Design HashSet](https://leetcode.com/problems/design-hashset/)| [Javascript](./algorithms/JS/designHashSet/designHashSet.js) |Easy|
