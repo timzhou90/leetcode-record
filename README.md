@@ -21,3 +21,4 @@ LeetCode for self review algorithm
 |1419|[Minimum Number of Frogs Croaking](https://leetcode.com/problems/minimum-number-of-frogs-croaking/)| [Javascript](./algorithms/JS/minimumNumberofFrogsCroaking/minimumNumberofFrogsCroaking.js) |Medium|
 |359|[Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)| [Javascript](./algorithms/JS/loggerRateLimiter/loggerRateLimiter.js) |Easy|
 |359|[Design HashSet](https://leetcode.com/problems/design-hashset/)| [Javascript](./algorithms/JS/designHashSet/designHashSet.js) |Easy|
+|359|[Design HashMap](https://leetcode.com/problems/design-hashmap/)| [Javascript](./algorithms/JS/design-hashmap/design-hashmap.js) |Easy|
