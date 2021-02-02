@@ -23,3 +23,9 @@ LeetCode for self review algorithm
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)| [Javascript](./algorithms/JS/designHashSet/designHashSet.js) |Easy|
 |706|[Design HashMap](https://leetcode.com/problems/design-hashmap/)| [Javascript](./algorithms/JS/design-hashmap/design-hashmap.js) |Easy|
 |232|[Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)| [Javascript](./algorithms/JS/implementQueueUsingStacks/implementQueueUsingStacks.js) |Easy|
+
+#### February. 2021
+
+| # | Title | Solution | Difficulty | Topics |
+|---| ----- | -------- | ---------- | ---- |
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy| |design|
