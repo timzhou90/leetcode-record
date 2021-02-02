@@ -27,5 +27,5 @@ LeetCode for self review algorithm
 #### February. 2021
 
 | # | Title | Solution | Difficulty | Topics |
-|---| ----- | -------- | ---------- | ---- |
-|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy| |design|
+|---| ----- | -------- | ---------- | ------ |
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy| | Design |
