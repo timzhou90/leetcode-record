@@ -28,4 +28,4 @@ LeetCode for self review algorithm
 
 | # | Title | Solution | Difficulty | Topics |
 |---| ----- | -------- | ---------- | ------ |
-|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy| | Design |
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy | Design |
