@@ -31,3 +31,4 @@ LeetCode for self review algorithm
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)| [Javascript](./algorithms/JS/KthLargestElementinaStream/KthLargestElementinaStream.js) |Easy | Design |
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Javascript](./algorithms/JS/ImplementStackusingQueues/ImplementStackusingQueues.js) |Easy | Design |
 |155|[Min stack](https://leetcode.com/problems/min-stack/)| [Javascript](./algorithms/JS/min-stack/min-stack.js) | Easy | Design |
+|716|[Max Stack](https://leetcode.com/problems/max-stack/)&hearts;| [Javascript](./algorithms/JS/max-stack/max-stack.js) | Easy | Design |
