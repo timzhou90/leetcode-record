@@ -32,3 +32,4 @@ LeetCode for self review algorithm
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)| [Javascript](./algorithms/JS/ImplementStackusingQueues/ImplementStackusingQueues.js) |Easy | Design |
 |155|[Min stack](https://leetcode.com/problems/min-stack/)| [Javascript](./algorithms/JS/min-stack/min-stack.js) | Easy | Design |
 |716|[Max Stack](https://leetcode.com/problems/max-stack/)&hearts;| [Javascript](./algorithms/JS/max-stack/max-stack.js) | Easy | Design |
+|1472|[Design Browser History](https://leetcode.com/problems/design-browser-history/)&hearts;| [Javascript](./algorithms/JS/designBrowserHistory/designBrowserHistory.js) | Medium | Design |
